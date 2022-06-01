@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CLIStarter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CLIStarter_jar</output-path>
+    <root id="archive" name="CLIStarter.jar">
+      <element id="module-output" name="CLIStarter" />
+    </root>
+  </artifact>
+</component>
